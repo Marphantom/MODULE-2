@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+D:\Data CodeGym\MODULE2\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+D:\Data CodeGym\MODULE2\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
