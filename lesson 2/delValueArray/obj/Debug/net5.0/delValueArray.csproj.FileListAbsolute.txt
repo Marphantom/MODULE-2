@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.exe
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\ref\delValueArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\bin\Debug\net5.0\delValueArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\ref\delValueArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\delValueArray\obj\Debug\net5.0\delValueArray.genruntimeconfig.cache

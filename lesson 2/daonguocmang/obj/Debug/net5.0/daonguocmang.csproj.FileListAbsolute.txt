@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.exe
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.dll
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\ref\daonguocmang.dll
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\bin\Debug\net5.0\daonguocmang.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.dll
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\ref\daonguocmang.dll
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\daonguocmang\obj\Debug\net5.0\daonguocmang.genruntimeconfig.cache

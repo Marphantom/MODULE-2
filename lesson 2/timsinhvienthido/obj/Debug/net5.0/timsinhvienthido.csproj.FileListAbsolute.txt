@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.exe
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.dll
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\ref\timsinhvienthido.dll
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\bin\Debug\net5.0\timsinhvienthido.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.dll
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\ref\timsinhvienthido.dll
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\timsinhvienthido\obj\Debug\net5.0\timsinhvienthido.genruntimeconfig.cache

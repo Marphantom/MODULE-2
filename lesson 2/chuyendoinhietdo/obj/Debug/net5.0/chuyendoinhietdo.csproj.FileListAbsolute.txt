@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.exe
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.dll
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\ref\chuyendoinhietdo.dll
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\bin\Debug\net5.0\chuyendoinhietdo.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.dll
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\ref\chuyendoinhietdo.dll
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\chuyendoinhietdo\obj\Debug\net5.0\chuyendoinhietdo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.exe
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\ref\findMaxArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\bin\Debug\net5.0\findMaxArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\ref\findMaxArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\findMaxArray\obj\Debug\net5.0\findMaxArray.genruntimeconfig.cache

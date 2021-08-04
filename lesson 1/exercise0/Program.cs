@@ -6,7 +6,35 @@ namespace exercise0
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            int value = 5;
+
+
+
+            Console.WriteLine("Value before increase: {0}", value);
+
+
+
+            IncreaseValue(value);
+
+
+
+            Console.WriteLine("Value after increase: {0}", value);
+
+           
+
+            Console.ReadKey();
+
+        }
+
+
+
+        static void IncreaseValue(int value)
+
+        {
+
+            value++;
+
         }
     }
 }

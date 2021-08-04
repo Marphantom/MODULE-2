@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.exe
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\ref\findMin2Array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\bin\Debug\net5.0\findMin2Array.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\ref\findMin2Array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\findMin2Array\obj\Debug\net5.0\findMin2Array.genruntimeconfig.cache

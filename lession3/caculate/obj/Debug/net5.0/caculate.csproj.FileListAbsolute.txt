@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.exe
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.deps.json
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.dll
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\ref\caculate.dll
+D:\Data CodeGym\MODULE-2\lession3\caculate\bin\Debug\net5.0\caculate.pdb
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.dll
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\ref\caculate.dll
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.pdb
+D:\Data CodeGym\MODULE-2\lession3\caculate\obj\Debug\net5.0\caculate.genruntimeconfig.cache

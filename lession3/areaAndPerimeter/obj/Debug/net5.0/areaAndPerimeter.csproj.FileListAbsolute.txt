@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.exe
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.deps.json
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.dll
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\ref\areaAndPerimeter.dll
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\bin\Debug\net5.0\areaAndPerimeter.pdb
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.dll
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\ref\areaAndPerimeter.dll
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.pdb
+D:\Data CodeGym\MODULE-2\lession3\areaAndPerimeter\obj\Debug\net5.0\areaAndPerimeter.genruntimeconfig.cache

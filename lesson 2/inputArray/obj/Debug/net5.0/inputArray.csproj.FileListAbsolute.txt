@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.exe
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\ref\inputArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\bin\Debug\net5.0\inputArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\ref\inputArray.dll
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\inputArray\obj\Debug\net5.0\inputArray.genruntimeconfig.cache

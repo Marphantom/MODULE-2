@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data CodeGym\\MODULE2\\lesson 1\\exercise0\\exercise0.csproj": {}
+    "D:\\Data CodeGym\\MODULE-2\\lesson 1\\exercise0\\exercise0.csproj": {}
   },
   "projects": {
-    "D:\\Data CodeGym\\MODULE2\\lesson 1\\exercise0\\exercise0.csproj": {
+    "D:\\Data CodeGym\\MODULE-2\\lesson 1\\exercise0\\exercise0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data CodeGym\\MODULE2\\lesson 1\\exercise0\\exercise0.csproj",
+        "projectUniqueName": "D:\\Data CodeGym\\MODULE-2\\lesson 1\\exercise0\\exercise0.csproj",
         "projectName": "exercise0",
-        "projectPath": "D:\\Data CodeGym\\MODULE2\\lesson 1\\exercise0\\exercise0.csproj",
+        "projectPath": "D:\\Data CodeGym\\MODULE-2\\lesson 1\\exercise0\\exercise0.csproj",
         "packagesPath": "C:\\Users\\MAR PHANTOM\\.nuget\\packages\\",
-        "outputPath": "D:\\Data CodeGym\\MODULE2\\lesson 1\\exercise0\\obj\\",
+        "outputPath": "D:\\Data CodeGym\\MODULE-2\\lesson 1\\exercise0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAR PHANTOM\\AppData\\Roaming\\NuGet\\NuGet.Config"

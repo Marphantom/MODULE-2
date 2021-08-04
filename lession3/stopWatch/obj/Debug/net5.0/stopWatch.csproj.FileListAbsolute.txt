@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.exe
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.deps.json
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.dll
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\ref\stopWatch.dll
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\bin\Debug\net5.0\stopWatch.pdb
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.dll
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\ref\stopWatch.dll
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.pdb
+D:\Data CodeGym\MODULE-2\lession3\stopWatch\obj\Debug\net5.0\stopWatch.genruntimeconfig.cache

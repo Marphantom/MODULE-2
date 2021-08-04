@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.exe
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.deps.json
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.dll
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\ref\AccessModifine.dll
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\bin\Debug\net5.0\AccessModifine.pdb
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.dll
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\ref\AccessModifine.dll
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.pdb
+D:\Data CodeGym\MODULE-2\lession4\AccessModifine\obj\Debug\net5.0\AccessModifine.genruntimeconfig.cache

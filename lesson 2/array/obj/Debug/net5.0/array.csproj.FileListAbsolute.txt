@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.exe
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.deps.json
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\ref\array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\array\bin\Debug\net5.0\array.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\ref\array.dll
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.pdb
+D:\Data CodeGym\MODULE-2\lesson 2\array\obj\Debug\net5.0\array.genruntimeconfig.cache
