@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.exe
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.deps.json
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.dll
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\ref\Circle.dll
+D:\Data CodeGym\MODULE-2\lession4\Circle\bin\Debug\net5.0\Circle.pdb
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.dll
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\ref\Circle.dll
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.pdb
+D:\Data CodeGym\MODULE-2\lession4\Circle\obj\Debug\net5.0\Circle.genruntimeconfig.cache

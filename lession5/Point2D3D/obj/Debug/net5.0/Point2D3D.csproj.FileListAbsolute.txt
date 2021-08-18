@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.exe
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.deps.json
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.dll
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\ref\Point2D3D.dll
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\bin\Debug\net5.0\Point2D3D.pdb
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.dll
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\ref\Point2D3D.dll
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.pdb
+D:\Data CodeGym\MODULE-2\lession5\Point2D3D\obj\Debug\net5.0\Point2D3D.genruntimeconfig.cache

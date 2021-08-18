@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.exe
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.deps.json
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.dll
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\ref\DaoNguocMangStack.dll
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\bin\Debug\net5.0\DaoNguocMangStack.pdb
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.dll
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\ref\DaoNguocMangStack.dll
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.pdb
+D:\Data CodeGym\MODULE-2\lession9\DaoNguocMangStack\obj\Debug\net5.0\DaoNguocMangStack.genruntimeconfig.cache

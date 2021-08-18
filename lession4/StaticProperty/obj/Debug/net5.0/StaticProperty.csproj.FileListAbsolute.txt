@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.exe
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.deps.json
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\ref\StaticProperty.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\bin\Debug\net5.0\StaticProperty.pdb
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\ref\StaticProperty.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.pdb
+D:\Data CodeGym\MODULE-2\lession4\StaticProperty\obj\Debug\net5.0\StaticProperty.genruntimeconfig.cache

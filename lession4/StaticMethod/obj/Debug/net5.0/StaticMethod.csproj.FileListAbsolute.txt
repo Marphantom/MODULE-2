@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.exe
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.deps.json
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\ref\StaticMethod.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\bin\Debug\net5.0\StaticMethod.pdb
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\ref\StaticMethod.dll
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.pdb
+D:\Data CodeGym\MODULE-2\lession4\StaticMethod\obj\Debug\net5.0\StaticMethod.genruntimeconfig.cache

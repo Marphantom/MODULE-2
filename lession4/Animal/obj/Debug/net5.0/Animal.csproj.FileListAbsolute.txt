@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.exe
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.deps.json
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.dll
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\ref\Animal.dll
+D:\Data CodeGym\MODULE-2\lession4\Animal\bin\Debug\net5.0\Animal.pdb
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.dll
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\ref\Animal.dll
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.pdb
+D:\Data CodeGym\MODULE-2\lession4\Animal\obj\Debug\net5.0\Animal.genruntimeconfig.cache

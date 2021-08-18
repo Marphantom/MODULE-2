@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.exe
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.deps.json
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ref\ZooManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\bin\Release\net5.0\ZooManagement.pdb
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ref\ZooManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.pdb
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.genruntimeconfig.cache
+D:\Data CodeGym\MODULE-2\lession5\ZooManagement\obj\Release\net5.0\ZooManagement.csproj.AssemblyReference.cache

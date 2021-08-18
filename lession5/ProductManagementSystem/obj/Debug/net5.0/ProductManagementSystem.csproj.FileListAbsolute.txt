@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.exe
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.deps.json
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.dll
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ref\ProductManagementSystem.dll
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\bin\Debug\net5.0\ProductManagementSystem.pdb
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.dll
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ref\ProductManagementSystem.dll
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.pdb
+D:\Data CodeGym\MODULE-2\lession5\ProductManagementSystem\obj\Debug\net5.0\ProductManagementSystem.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.exe
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.deps.json
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\ref\AnimalManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\bin\Debug\net5.0\AnimalManagement.pdb
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\ref\AnimalManagement.dll
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.pdb
+D:\Data CodeGym\MODULE-2\lession5\AnimalManagement\obj\Debug\net5.0\AnimalManagement.genruntimeconfig.cache

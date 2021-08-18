@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.exe
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.deps.json
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.dll
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\ref\EzLinkedList.dll
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\bin\Debug\net5.0\EzLinkedList.pdb
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.dll
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\ref\EzLinkedList.dll
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.pdb
+D:\Data CodeGym\MODULE-2\lession9\EzLinkedList\obj\Debug\net5.0\EzLinkedList.genruntimeconfig.cache

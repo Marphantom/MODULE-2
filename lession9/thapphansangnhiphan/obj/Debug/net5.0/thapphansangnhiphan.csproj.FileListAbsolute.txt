@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.exe
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.deps.json
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.dll
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\ref\thapphansangnhiphan.dll
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\bin\Debug\net5.0\thapphansangnhiphan.pdb
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.dll
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\ref\thapphansangnhiphan.dll
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.pdb
+D:\Data CodeGym\MODULE-2\lession9\thapphansangnhiphan\obj\Debug\net5.0\thapphansangnhiphan.genruntimeconfig.cache

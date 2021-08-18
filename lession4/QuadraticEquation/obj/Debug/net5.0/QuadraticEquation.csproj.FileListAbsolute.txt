@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.exe
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.deps.json
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.dll
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\ref\QuadraticEquation.dll
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\bin\Debug\net5.0\QuadraticEquation.pdb
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.dll
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\ref\QuadraticEquation.dll
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.pdb
+D:\Data CodeGym\MODULE-2\lession4\QuadraticEquation\obj\Debug\net5.0\QuadraticEquation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.exe
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.deps.json
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.dll
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\ref\bai2.dll
+D:\Data CodeGym\MODULE-2\lession file\bai2\bin\Debug\net5.0\bai2.pdb
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.dll
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\ref\bai2.dll
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.pdb
+D:\Data CodeGym\MODULE-2\lession file\bai2\obj\Debug\net5.0\bai2.genruntimeconfig.cache

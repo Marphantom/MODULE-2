@@ -1,0 +1,16 @@
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.exe
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.deps.json
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.runtimeconfig.json
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.runtimeconfig.dev.json
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.dll
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\ref\CheckPalindrome.dll
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\bin\Debug\net5.0\CheckPalindrome.pdb
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.csproj.AssemblyReference.cache
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.AssemblyInfoInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.AssemblyInfo.cs
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.dll
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\ref\CheckPalindrome.dll
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.pdb
+D:\Data CodeGym\MODULE-2\lession9\CheckPalindrome\obj\Debug\net5.0\CheckPalindrome.genruntimeconfig.cache
